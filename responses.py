@@ -7,10 +7,10 @@ def sample_responses(input_text):
     user_message = str(input_text).lower()
 
     if user_message in ("hello", "hi", "hey", "yo", "whatsup", "sup"):
-        return "Hi Seksi, How you doing!?"
+        return "Hi seksi, how you doin'?"
 
-    if user_message in ("who are you", "who are you?"):
-        return "I'm Mr. Simbull, bitch."
+    if user_message in ("who are you", "who are you?", "what's your name", "what's your name?"):
+        return "I'm Mr. Simbull."
 
     if user_message in ("time", "time?", "date", "date?"):
         now = datetime.now()
