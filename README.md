@@ -1,4 +1,4 @@
-![image description](https://user-images.githubusercontent.com/44616490/178137166-aa52e552-5dc5-41ff-8c79-f2867c50c8d8.png)
+![image description](https://user-images.githubusercontent.com/44616490/178138584-4e78a5d5-6de5-4a18-b034-57d6c53bbcc2.jpg)
 
 # Mr. Simbull Bot
 
