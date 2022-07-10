@@ -41,6 +41,7 @@ Please give a ⭐️ if you like this project, thank you!
 👤 **BLACKZMARTX**
 
 - Github:[ @BlackZmartX](https://github.com/BlackZmartX) 
+- Linktree:[ @blackzmartx](https://linktr.ee/blackzmartx)
 - Instagram:[ @blackzmartx](https://www.instagram.com/blackzmartx)
 - Twitter:[ @blackzmartx](https://www.twitter.com/blackzmartx)
 - Website:[ bzxprojects](https://bzxprojects.blogspot.com)
