@@ -45,3 +45,8 @@ Please give a ⭐️ if you like this project, thank you!
 - Instagram:[ @blackzmartx](https://www.instagram.com/blackzmartx)
 - Twitter:[ @blackzmartx](https://www.twitter.com/blackzmartx)
 - Website:[ bzxprojects](https://bzxprojects.blogspot.com)
+
+## Tags
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
