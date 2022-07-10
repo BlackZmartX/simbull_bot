@@ -14,8 +14,8 @@ A Telegram chatbot based on Cleverbot API
 
 ## Dependencies
 
-* python-telegram-bot
-* cleverwrap
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+* [cleverwrap](https://pypi.org/project/cleverwrap/)
 
 ```
 $ pip install python-telegram-bot
