@@ -18,7 +18,7 @@ A telegram chatbot based on Cleverbot API
 
 ## Steps 
 
-1. Clone the project
+1. Download or clone the project
 2. Create your telegram bot using [BotFather](https://t.me/BotFather)
 3. Purchase an API key from [Cleverbot](https://www.cleverbot.com/api)
 4. Open the project and rename constants.py with your Telegram Bot's and Cleverbot's API Keys.
