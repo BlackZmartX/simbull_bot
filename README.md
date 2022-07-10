@@ -2,7 +2,7 @@
 
 # Mr. Simbull Bot
 
-A telegram chatbot based on Cleverbot API
+A Telegram chatbot based on Cleverbot API
 
 * may not be suitable for children - must be agreed by parent or guardian
 * it learns and imitates, is social content and aims to pass the Turing Test
