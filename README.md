@@ -27,7 +27,7 @@ A telegram chatbot based on Cleverbot API
 
 ## APIs Used
 
-- Cleverwrap: Cleverbot API 
+- Cleverwrap (to interact with the official CleverBot API)
 - Gizoogle API (extra: Other APIs)
 
 ## Support
