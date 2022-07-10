@@ -32,3 +32,5 @@ Please give a ⭐️ if you like this project, thank you!
 
 - Github:[ @BlackZmartX](https://github.com/BlackZmartX) 
 - Instagram:[ @blackzmartx](https://www.instagram.com/blackzmartx)
+- Twitter:[ @blackzmartx](https://www.twitter.com/blackzmartx)
+- Website:[ bzxprojects](https://bzxprojects.blogspot.com)
