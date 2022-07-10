@@ -17,6 +17,11 @@ A Telegram chatbot based on Cleverbot API
 * python-telegram-bot
 * cleverwrap
 
+.. code:: shell
+
+    $ pip install python-telegram-bot 
+    $ pip install cleverwrap
+
 
 ## Steps 
 
