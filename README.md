@@ -5,7 +5,7 @@
 A Telegram chatbot based on Cleverbot API
 
 * may not be suitable for children - must be agreed by parent or guardian
-* it learns and imitates, is social content and aims to pass the Turing Test
+* he learns and imitates, is social content and aims to pass the Turing Test
 * can seem rude or inappropriate - talk with caution and at your own risk
 * mr. simbull pretends to be human - don't give personal info even if he asks
 * simbull does not understand you, and cannot mean anything he says
