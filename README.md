@@ -4,13 +4,12 @@
 
 A Telegram chatbot based on Cleverbot API
 
-* may not be suitable for children - must be agreed by parent or guardian
-* he learns and imitates, is social content and aims to pass the Turing Test
-* can seem rude or inappropriate - talk with caution and at your own risk
-* mr. simbull pretends to be human - don't give personal info even if he asks
-* simbull does not understand you, and cannot mean anything he says
-
 ### 🤖 [Click here to have some fun with Mr. Simbull](http://t.me/simbull_bot) 
+
+## Disclaimer
+
+Simbull is oblivious to the existence of bad things. He might not be appropriate for children under age of 16. He always attempts to observe and imitate other humans. He can come out as rude or inappropriate to you as a result. So, speak at your own risk and with caution. He plays the part of a person on occasion. So, even if he asks, avoid giving him your personal information. Finally, he cannot mean whatever he says since he does not comprehend you (or your feelings).
+
 
 ## Dependencies
 
