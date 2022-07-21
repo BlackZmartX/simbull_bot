@@ -49,6 +49,12 @@ Please give a ⭐️ if you like this project, thank you!
 - Twitter:[ @blackzmartx](https://www.twitter.com/blackzmartx)
 - Website:[ bzxprojects](https://bzxprojects.blogspot.com)
 
+## Support Me
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=EGV845WHFWNDG">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+</a>
+
 ## Tags
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
